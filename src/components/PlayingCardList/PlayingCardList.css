@@ -1,0 +1,17 @@
+.PlayingCardList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: forestgreen;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.PlayingCardList-card-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
